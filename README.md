@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
 - 🎓 &nbsp; Currently studying mathematics and computer science at a high school from Romania.
-- 💪🏼 &nbsp; Goals: Learn more about Programming - Never stop.
+- 🎉 &nbsp; Goals: Learn more about Programming - Never stop.
 - 💬 &nbsp; Talk to me about Programming, Linux, Web Development, Freelancing, Hosting, Discord Bots or everything.
 - 🤓 &nbsp; My projects are still private, don't have a good portfolio yet.
 <p align="center">
