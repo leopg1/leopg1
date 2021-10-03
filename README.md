@@ -17,7 +17,7 @@
 <a href="mailto:contact.leogdev@gmail.com" >
   <img align="center" alt="contact.leogdev | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100013628134596">
+<a href="https://www.facebook.com/">
     <img align="center" alt="Leonard Gabriel | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a> &nbsp;&nbsp;
 <div align=left>
