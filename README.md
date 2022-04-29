@@ -7,19 +7,6 @@
 - 🎉 &nbsp; Goals: Learn more about Programming - Never stop.
 - 💬 &nbsp; Talk to me about Programming, Linux, Web Development, Freelancing, Hosting, Discord Bots or everything.
 - 🤓 &nbsp; My projects are still private, don't have a good portfolio yet.
-<p align="center">
-<a href="https://twitter.com/LeogCode" target="_blank">
-  <img align="center" alt="LeogCode | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/leonard._.gabriel/" target="_blank">
-  <img align="center" alt="leonard._.gabriel | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:contact.leogdev@gmail.com" >
-  <img align="center" alt="contact.leogdev | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/">
-    <img align="center" alt="Leonard Gabriel | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-</a> &nbsp;&nbsp;
 <div align=left>
   <h3><b>Profile Visitor Count</b></h3>
 </div>
