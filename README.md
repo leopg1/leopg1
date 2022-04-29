@@ -14,12 +14,12 @@
   <img src="https://profile-counter.glitch.me/leopg1/count.svg" />  
 </p>   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
-<br>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,mongodb,nginx,linux,git,cloudflare,vscode,wordpress,bots&perline=5" />
+      <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,mongodb,nginx,linux,git,cloudflare,vscode,wordpress,bots" />
     </a>
 </p>
+<br>
 
 
 
