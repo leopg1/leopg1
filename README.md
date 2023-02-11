@@ -9,6 +9,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=leopg1&icon=6&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=leopg1&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 
